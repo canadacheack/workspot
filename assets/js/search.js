@@ -19,8 +19,8 @@ function searchKeyword() {
     // Redirect to a separate page based on the keyword
     if (keyword === "eh0215336") {
         window.location.href = "bulbul.html";
-    }else if (keyword === "ej0562857") {
-        window.location.href = "https://canadaworkspot.com/liton/";
+    }else if (keyword === "bw0504380") {
+        window.location.href = "abadur.html";
     } else if (keyword === "ej0169453") {
         window.location.href = "https://canadaworkspot.com/azizur/";
     } else if (keyword === "a05476155") {
