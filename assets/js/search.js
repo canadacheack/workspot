@@ -21,6 +21,12 @@ function searchKeyword() {
         window.location.href = "bulbul.html";
     }else if (keyword === "bw0504380") {
         window.location.href = "abadur.html";
+    }else if (keyword === "nadimA") {
+        window.location.href = "nadimA.html";
+    }else if (keyword === "nadimJ") {
+        window.location.href = "nadimJ.html";
+    }else if (keyword === "nadimW") {
+        window.location.href = "nadimW.html";
     }else if (keyword === "eg0940141") {
         window.location.href = "nadim.html";
     }else if (keyword === "ej0169453") {
