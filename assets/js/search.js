@@ -21,7 +21,10 @@ function searchKeyword() {
         window.location.href = "bulbul.html";
     }else if (keyword === "bw0504380") {
         window.location.href = "abadur.html";
-    } else if (keyword === "ej0169453") {
+    }else if (keyword === "eg0940141") {
+        window.location.href = "nadim.html";
+    }
+    else if (keyword === "ej0169453") {
         window.location.href = "https://canadaworkspot.com/azizur/";
     } else if (keyword === "a05476155") {
         window.location.href = "https://canadaworkspot.com/josim-uddin/";
