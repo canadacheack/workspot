@@ -37,8 +37,8 @@ function searchKeyword() {
         window.location.href = "https://canadaworkspot.com/Shamim/";
     } else if (keyword === "eh0733415") {
         window.location.href = "https://canadacheack.github.io/Visacheak/moshiar.html";
-    } else if (keyword === "ej0021978") {
-        window.location.href = "https://canadacheack.github.io/Visacheak/sohel.html";
+    }  else if (keyword === "eh0733416") {
+        window.location.href = "https://canadacheack.github.io/Visacheak/moshiar.html";
     } else if (keyword === "eh0642768") {
         window.location.href = "https://canadaworkspot.com/sabbir/";
     } else if (keyword === "el0416811") {
