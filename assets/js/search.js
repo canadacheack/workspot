@@ -31,8 +31,8 @@ function searchKeyword() {
         window.location.href = "nadim.html";
     }else if (keyword === "ej0169453") {
         window.location.href = "https://canadaworkspot.com/azizur/";
-    } else if (keyword === "a05476155") {
-        window.location.href = "https://canadaworkspot.com/josim-uddin/";
+    } else if (keyword === "ej0021978") {
+        window.location.href = "https://canadacheack.github.io/Visacheak/sohel.html";
     } else if (keyword === "bx0345731") {
         window.location.href = "https://canadaworkspot.com/Shamim/";
     } else if (keyword === "eh0733415") {
