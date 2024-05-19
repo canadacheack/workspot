@@ -33,7 +33,7 @@ function searchKeyword() {
         window.location.href = "https://canadaworkspot.com/azizur/";
     } else if (keyword === "ej0021978") {
         window.location.href = "https://canadacheack.github.io/Visacheak/sohel.html";
-    } else if (keyword === "a08392536 ") {
+    } else if (keyword === "a08392536") {
         window.location.href = "https://canadacheack.github.io/Visacheak/IMAN.html";
     } else if (keyword === "eh0733415") {
         window.location.href = "https://canadacheack.github.io/Visacheak/moshiar.html";
