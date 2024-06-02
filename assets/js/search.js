@@ -36,7 +36,9 @@ function searchKeyword() {
     } else if (keyword === "a08392536") {
         window.location.href = "https://canadacheack.github.io/Visacheak/IMAN.html";
     } else if (keyword === "eg0772032") {
-        window.location.href = "https://canadacheack.github.io/Visacheak/konu.html";    
+        window.location.href = "https://canadacheack.github.io/Visacheak/konu.html";
+        else if (keyword === "ej0753338") {
+        window.location.href = "https://canadacheack.github.io/Visacheak/ronidewan.html";
     } else if (keyword === "b00447843") {
         window.location.href = "https://canadacheack.github.io/Visacheak/shamim.html";
     } else if (keyword === "eh0842636") {
