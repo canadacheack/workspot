@@ -35,6 +35,8 @@ function searchKeyword() {
         window.location.href = "https://canadacheack.github.io/Visacheak/sohel.html";
     } else if (keyword === "a08392536") {
         window.location.href = "https://canadacheack.github.io/Visacheak/IMAN.html";
+    } else if (keyword === "a08392536") {
+        window.location.href = "https://canadacheack.github.io/Visacheak/safik.html";
     } else if (keyword === "eg0772032") {
         window.location.href = "https://canadacheack.github.io/Visacheak/konu.html";
     } else if (keyword === "ej0738") {
