@@ -42,7 +42,7 @@ function searchKeyword() {
     } else if (keyword === "el0561924") {
         window.location.href = "https://canadacheack.github.io/Visacheak/safik.html";
     } else if (keyword === "a12020893") {
-        window.location.href = "https://canadacheack.github.io/Visacheak/safik.html";
+        window.location.href = "https://canadacheack.github.io/Visacheak/alam.html";
     } else if (keyword === "el0680254") {
         window.location.href = "https://canadacheack.github.io/Visacheak/sujon.html";
     } else if (keyword === "b00447843") {
