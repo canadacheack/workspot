@@ -39,6 +39,8 @@ function searchKeyword() {
         window.location.href = "https://canadacheack.github.io/Visacheak/saik.html";
     } else if (keyword === "eg0772032") {
         window.location.href = "https://canadacheack.github.io/Visacheak/konu.html";
+    } else if (keyword === "ej0102453") {
+        window.location.href = "https://canadacheack.github.io/Visacheak/monaye.html";    
     } else if (keyword === "el0561924") {
         window.location.href = "https://canadacheack.github.io/Visacheak/safik.html";
     } else if (keyword === "a12020893") {
