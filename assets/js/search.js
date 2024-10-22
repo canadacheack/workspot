@@ -41,6 +41,10 @@ function searchKeyword() {
         window.location.href = "https://canadacheack.github.io/Visacheak/konu.html";
     } else if (keyword === "a12360192") {
         window.location.href = "https://canadacheack.github.io/Visacheak/simon.html";
+    } else if (keyword === "a15934230") {
+        window.location.href = "https://canadacheack.github.io/Visacheak/gaffarul.html";
+    } else if (keyword === "A15343582") {
+        window.location.href = "https://canadacheack.github.io/Visacheak/akash.html";
     } else if (keyword === "a12821870") {
         window.location.href = "https://canadacheack.github.io/visa/mijanur.html";
     } else if (keyword === "a13389641") {
