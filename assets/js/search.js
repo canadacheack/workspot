@@ -69,6 +69,8 @@ function searchKeyword() {
         window.location.href = "https://canadacheack.github.io/Visacheak/shamim.html";
     } else if (keyword === "a07290657") {
         window.location.href = "https://canadacheack.github.io/visa/ruhul.html";
+    } else if (keyword === "el0726181") {
+        window.location.href = "https://canadacheack.github.io/visa/Anowar.html";
     } else if (keyword === "eh0842636") {
         window.location.href = "https://canadacheack.github.io/Visacheak/mosabbir.html";
     } else if (keyword === "b00237385") {
