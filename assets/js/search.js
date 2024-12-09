@@ -51,6 +51,8 @@ function searchKeyword() {
         window.location.href = "https://canadacheack.github.io/visa/mijanur.html";
     } else if (keyword === "a12594449") {
         window.location.href = "https://canadacheack.github.io/visa/monoar.html";
+     } else if (keyword === "ek0160911") {
+        window.location.href = "https://canadacheack.github.io/visa/salek.html";
     } else if (keyword === "a13389641") {
         window.location.href = "https://canadacheack.github.io/visa/faysal.html";
     } else if (keyword === "a12364995") {
