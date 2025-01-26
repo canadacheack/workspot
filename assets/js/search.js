@@ -25,6 +25,8 @@ function searchKeyword() {
         window.location.href = "nadimA.html";
     }else if (keyword === "nadimJ") {
         window.location.href = "nadimJ.html";
+    }else if (keyword === "a06386062") {
+        window.location.href = "delowar2.html";
     }else if (keyword === "nadimW") {
         window.location.href = "nadimW.html";
     }else if (keyword === "eg0940141") {
