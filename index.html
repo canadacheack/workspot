@@ -150,6 +150,20 @@
 			<!-- ============================ Hero Banner End ================================== -->
 
 			<!-- ============================ Featured Designs Start ==================================== -->
+			<div class="container">
+                <div class="form">
+                    <div class="form_container">
+        
+                        <h3>Canada Visa Application Cheaker</h3>
+                        <input type="text" id="passport" placeholder="Enter your Passport">
+                        <button id="click" onclick="redirect()">Search</button>
+        
+                </div>
+                </div>
+            </div>
+		
+		
+		
 			<section class="min-sec">
 				<div class="container">
 				
@@ -978,7 +992,29 @@
 				.catch(error => console.error('Error!', error.message))
 			})
 		</script>
+<script> 
 
+    function redirect(){
+     var test =  document.querySelector('#passport');
+     if(test.value == "EK0187677"){
+             window.location.href= "ramjan.html"; 
+     }else if (test.value == "EJ0338361"){
+         window.location.href = "jamal.html"
+     }else if (test.value == "A17708552"){
+         window.location.href = "https://rtscompany.site/deluar.html"
+     }else if (test.value == "A07489789"){
+         window.location.href = "https://rtscompany.site/proshanta.html"
+     }
+         
+        
+        
+         
+     else{
+          alert("invalid Passport")
+     }
+       }
+    
+</script>
 
 		
 	</body>
